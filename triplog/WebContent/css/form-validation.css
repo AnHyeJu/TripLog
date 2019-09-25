@@ -1,0 +1,15 @@
+.container {
+  max-width: 900px;
+}
+
+.container div{
+	padding: 0;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+/* div{border: 1px solid green;} */
+
+.dsp{display: none;}
+
+.custom-checkbox{margin-left: 30px;}

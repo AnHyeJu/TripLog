@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+	padding-top: 56px;
+}
+
+.nav-link {
+	line-height: 40px;
+}
+
+#photo {
+	width: auto;
+	height: auto;
+	max-width: 100px;
+	max-height: 100px;
+}
+
+#go{
+	display: none;
+}
+/* dt{border: 1px solid red;} */
+
+/* dd{border: 1px solid green;} */
+/* input{border: 1px solid blue;} */

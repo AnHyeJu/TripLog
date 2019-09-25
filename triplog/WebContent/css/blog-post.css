@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+body *{
+/* 	border: 1px solid red; */
+}
+#go{display: none;}
+
+.cmtphoto {
+	width: auto;
+	height: auto;
+	max-width: 50px;
+	max-height: 50px;
+}
+
+#fspace>td>div{
+	display: inline-block;
+}
+
+#fddiv>div{
+	text-align: right;
+}
+/* div{border: 1px solid green;} */
+/* table *{border: 1px solid red;} */
